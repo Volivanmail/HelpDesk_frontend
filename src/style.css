@@ -11,6 +11,13 @@ body {
     background-position: center center;
 }
 
+.header {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    text-shadow: 8px 8px 6px #130404;
+}
+
 .popup input {
     display: block;
     width: 100%;
